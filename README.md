@@ -28,4 +28,6 @@ This is a blog project built in Next.js with Tailwind CSS. It utilizes various p
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/nextjs-blog.git
+   npm start
+
+## URL[https://next-blog-kappa-swart.vercel.app/]
