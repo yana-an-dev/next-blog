@@ -31,3 +31,5 @@ This is a blog project built in Next.js with Tailwind CSS. It utilizes various p
    npm start
 
 ## URL[https://next-blog-kappa-swart.vercel.app/]
+
+<img width="946" alt="image" src="https://github.com/yana-an-dev/next-blog/assets/37002930/fa223751-2fc7-4283-9db8-478023c0b299">
